@@ -16,6 +16,14 @@
 יש לנו קבוצה בטלגרם - https://t.me/joinchat/25iEYHxw5Q81OWVk
 
 # פרויקטים / כלים דומים, אולי אפשר להשתמש או להתאים
-* https://www.ushahidi.com/
-* http://openmapkit.org/
-* 
+##  Ushahidi
+https://www.ushahidi.com/
+
+## OpenMapKit
+http://openmapkit.org/
+
+## Mobilizon
+Mobilizon is a tool that helps you find, create and organize events.
+
+You can also create a page for your group where the members will be able to get organized together.
+https://joinmobilizon.org/en/
