@@ -34,3 +34,10 @@ Mobilizon is a tool that helps you find, create and organize events.
 
 You can also create a page for your group where the members will be able to get organized together.
 
+## MySociety
+https://www.mysociety.org/
+Established in 2003, mySociety is a not for profit group pioneering the use of online technologies to empower citizens to take their first steps towards greater civic participation.
+
+We help people be active citizens with technology, research and data that individuals, journalists, and civil society can use, openly and for free.
+
+
