@@ -14,3 +14,8 @@
 
 ## איך מצטרפים
 יש לנו קבוצה בטלגרם - https://t.me/joinchat/25iEYHxw5Q81OWVk
+
+# פרויקטים . כלים דומים, אולי אפשר להשתמש או להתאים
+* https://www.ushahidi.com/
+* http://openmapkit.org/
+* 
