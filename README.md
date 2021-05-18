@@ -40,4 +40,6 @@ Established in 2003, mySociety is a not for profit group pioneering the use of o
 
 We help people be active citizens with technology, research and data that individuals, journalists, and civil society can use, openly and for free.
 
-
+## SignalBoost
+https://signalboost.info/
+Signalboost is a message forwarding service that uses (but is not affiliated with!) Signal Messenger to deliver messages. Our software enables Signalboost to programmatically purchase a number and from then on out, admins can broadcast messages to subscribers from that number or use it as a hotline.
